@@ -9,7 +9,7 @@
 ### Detection and Response Capabilities<br>
 ### Enabling Technologies<br>
 ### Governance<br>
-- [OWASP Cyber Defense Matrix](https://owasp.org/www-project-cyber-defense-matrix/) -  The Cyber Defense Matrix helps organize security technologiesto build, manage, and operate a security program
+- [OWASP Cyber Defense Matrix](https://owasp.org/www-project-cyber-defense-matrix/) -  The Cyber Defense Matrix helps organize security technologies into the NIST Cyber Security Framework Functions
 - [OWASP Threat and Safeguard Matrix](https://owasp.org/www-project-threat-and-safeguard-matrix/) - The Threat and Safeguard Matrix (TaSM) allows a company to overlay its major threats with the NIST Cyber Security Framework Functions to build a defense in depth security plan
 ### Identity & Access Management<br>
 ### Laws, Regulations, & Oversight<br>
