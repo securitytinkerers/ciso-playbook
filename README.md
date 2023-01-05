@@ -1,5 +1,4 @@
-# CISO Playbook
-This repository will contain plays or templates that cyber professionals can use to help benefit their cyber organizations
+CISO Playbook - This repository will contain plays or templates that cyber professionals can use to help benefit their cyber organizations
 ---
 ### CISO Role<br>
 ### Business Management & Leadership<br>
