@@ -1,14 +1,15 @@
 # CISO Playbook
-This repository will be used to create a playbook of templates that CISOs can use to help their cyber organizations
+This repository will contain plays or templates that cyber professionals can use to help benefit their cyber organizations
 
-## CISO Role<br>
+### CISO Role<br>
 ### Business Management & Leadership<br>
-Defensive Technologies<br>
-Detection and Response Capabilities<br>
-Enabling Technologies<br>
-Governance<br>
-Identity & Access Management<br>
-Laws, Regulations, & Oversight<br>
-Product Security<br>
-Risk Management<br>
-Security Culture<br>
+- Personal Values Exercise - This exercise can be used to identify what someone values from a job and how to motivate them [Link](https://docs.google.com/document/d/1M19JkXAp_fkxHpgHB21pkq28UntJkcLE/edit?usp=sharing&ouid=104989998442085477687&rtpof=true&sd=true)
+### Defensive Technologies<br>
+### Detection and Response Capabilities<br>
+### Enabling Technologies<br>
+### Governance<br>
+### Identity & Access Management<br>
+### Laws, Regulations, & Oversight<br>
+### Product Security<br>
+### Risk Management<br>
+### Security Culture<br>
