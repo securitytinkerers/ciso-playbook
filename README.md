@@ -15,7 +15,7 @@
 - Board Deck Templates
   - [RSAC ESAF What Top CISOs Include in Updates for the Board](https://www.rsaconference.com/rsac-programs/executive-security-action-forum)
   - [NACD 2023 Director's Handbook on Cyber-Risk Oversight](https://www.nacdonline.org/insights/publications.cfm?ItemNumber=74777)
-  - [Blue Lava Board Tempmlate](https://bluelava.io/cybersecurity-board-reporting/)
+  - [Blue Lava Board Template](https://bluelava.io/cybersecurity-board-reporting/)
 
 ### Identity & Access Management<br>
 ### Laws, Regulations, & Oversight<br>
