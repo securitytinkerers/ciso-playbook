@@ -11,6 +11,12 @@
 ### Governance<br>
 - [OWASP Cyber Defense Matrix](https://owasp.org/www-project-cyber-defense-matrix/) -  The Cyber Defense Matrix helps organize security technologies into the NIST Cyber Security Framework Functions
 - [OWASP Threat and Safeguard Matrix](https://owasp.org/www-project-threat-and-safeguard-matrix/) - The Threat and Safeguard Matrix (TaSM) allows a company to overlay its major threats with the NIST Cyber Security Framework Functions to build a defense in depth security plan
+
+- Board Deck Templates
+  - [RSAC ESAF What Top CISOs Include in Updates for the Board](https://www.rsaconference.com/rsac-programs/executive-security-action-forum)
+  - [NACD 2023 Director's Handbook on Cyber-Risk Oversight](https://www.nacdonline.org/insights/publications.cfm?ItemNumber=74777)
+  - [Blue Lava Board Tempmlate](https://bluelava.io/cybersecurity-board-reporting/)
+
 ### Identity & Access Management<br>
 ### Laws, Regulations, & Oversight<br>
 ### Product Security<br>
